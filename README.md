@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adem Han.</h1>
 <h3 align="center">I am a computer engineering student at Kütahya Dumlupınar University.</h3>
 
-- 🌱 I’m currently learning **Unity and C#**
+- 🌱 I’m currently learning **Swift**
 
 - 📄 How to reach me **adem.han@outlook.com**
 
